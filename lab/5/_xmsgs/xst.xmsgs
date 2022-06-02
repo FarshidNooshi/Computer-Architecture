@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"C:\Users\Farshid726\Desktop\University\Computer Design Lab\Projects\5.1\final\ArrayMultiplier4bit.vhd" Line 32: Actual for formal port <arg fmt="%s" index="1">a</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"C:\Users\Farshid726\Desktop\University\Computer Design Lab\Projects\5.1\final\ArrayMultiplier4bit.vhd" Line 36: Actual for formal port <arg fmt="%s" index="1">a</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"C:\Users\Farshid726\Desktop\University\Computer Design Lab\Projects\5.1\final\ArrayMultiplier4bit.vhd" Line 40: Actual for formal port <arg fmt="%s" index="1">a</arg> is neither a static name nor a globally static expression
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\Farshid726\Desktop\University\Computer Design Lab\Projects\5.1\final\ArrayMultiplierbit_Test.vhd</arg>&quot; line <arg fmt="%d" index="2">13</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">DUT</arg>&gt; of block &lt;<arg fmt="%s" index="4">ArrayMultiplier4bit</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">ArrayMultiplier_Test</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\Farshid726\Desktop\University\Computer Design Lab\Projects\5.1\final\ArrayMultiplierbit_Test.vhd</arg>&quot; line <arg fmt="%s" index="2">13</arg>: Output port &lt;<arg fmt="%s" index="3">product</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">DUT</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+</messages>
+

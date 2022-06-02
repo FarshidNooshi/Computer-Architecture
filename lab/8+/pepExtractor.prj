@@ -1,0 +1,3 @@
+work	"alu.vhd"
+work	"full_adder.vhd"
+work	"ripple_adder_8bit.vhd"

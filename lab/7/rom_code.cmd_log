@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/ISE Projects/az7/rom_code.xst" -ofn "D:/ISE Projects/az7/rom_code.syr" 
+xst -intstyle ise -ifn "D:/ISE Projects/az7/rom_code.xst" -ofn "D:/ISE Projects/az7/rom_code.syr" 

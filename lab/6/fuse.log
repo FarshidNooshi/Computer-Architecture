@@ -1,0 +1,20 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/6/test/tb_reg_isim_beh.exe -prj C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/6/test/tb_reg_beh.prj work.tb_reg 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/6/test/reg.vhd" into library work
+Parsing VHDL file "C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/6/test/tb_reg.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity reg [reg_default]
+Compiling architecture arch of entity tb_reg
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 6 VHDL Units
+Built simulation executable C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/6/test/tb_reg_isim_beh.exe
+Fuse Memory Usage: 35888 KB
+Fuse CPU Usage: 405 ms

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/tb_normal_multiplier_4bit_isim_beh.exe" -prj "C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/tb_normal_multiplier_4bit_beh.prj" "work.tb_normal_multiplier_4bit" 

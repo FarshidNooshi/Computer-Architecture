@@ -1,0 +1,20 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/ISE Projects/az7/TB_ROM_isim_beh.exe -prj D:/ISE Projects/az7/TB_ROM_beh.prj work.TB_ROM 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/ISE Projects/az7/ROM.vhd" into library work
+Parsing VHDL file "D:/ISE Projects/az7/TB_ROM.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture arch of entity rom_code [rom_code_default]
+Compiling architecture arch of entity tb_rom
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 6 VHDL Units
+Built simulation executable D:/ISE Projects/az7/TB_ROM_isim_beh.exe
+Fuse Memory Usage: 36516 KB
+Fuse CPU Usage: 890 ms

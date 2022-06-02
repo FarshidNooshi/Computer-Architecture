@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/ISE Projects/az7/TB_ROM_isim_beh.exe" -prj "D:/ISE Projects/az7/TB_ROM_beh.prj" "work.TB_ROM" 

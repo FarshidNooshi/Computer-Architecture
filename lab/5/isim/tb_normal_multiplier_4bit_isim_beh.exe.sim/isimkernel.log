@@ -1,0 +1,28 @@
+Command line:
+   tb_normal_multiplier_4bit_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59156
+
+Sat May 01 19:37:13 2021
+
+
+ Elaboration Time: 0.609375 sec
+
+ Current Memory Usage: 5163.13 Meg
+
+ Total Signals          : 68
+ Total Nets             : 94
+ Total Signal Drivers   : 50
+ Total Blocks           : 15
+ Total Primitive Blocks : 13
+ Total Processes        : 50
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 454
+
+ Total Simulation Time: 0.609375 sec
+
+ Current Memory Usage: 5163.13 Meg
+
+Sat May 01 19:37:21 2021
+

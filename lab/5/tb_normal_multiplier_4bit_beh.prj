@@ -1,0 +1,4 @@
+vhdl work "half_adder.vhd"
+vhdl work "full_adder.vhd"
+vhdl work "normal_multiplier_4bit.vhd"
+vhdl work "tb_normal_multiplier_4bit.vhd"

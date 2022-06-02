@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="871" delta="old" >"D:\az9part1 (2)\az9part1 (2)\az9part1\cpu.vhd" Line 50: Using initial value <arg fmt="%s" index="1">&quot;0010&quot;</arg> for <arg fmt="%s" index="2">val</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"D:\az9part1 (2)\az9part1 (2)\az9part1\cpu.vhd" Line 60: Assignment to <arg fmt="%s" index="1">ac</arg> ignored, since the identifier is never used
+</msg>
+
+</messages>
+

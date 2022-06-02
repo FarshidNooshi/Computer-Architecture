@@ -1,0 +1,4 @@
+vhdl work "full_adder.vhd"
+vhdl work "rippleAdder4bit.vhd"
+vhdl work "ArrayMultiplier4bit.vhd"
+vhdl work "ArrayMultiplierbit_Test.vhd"

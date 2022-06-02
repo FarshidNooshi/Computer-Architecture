@@ -1,0 +1,4 @@
+vhdl work "full_adder.vhd"
+vhdl work "ripple_adder_8bit.vhd"
+vhdl work "alu.vhd"
+vhdl work "tb_alu.vhd"

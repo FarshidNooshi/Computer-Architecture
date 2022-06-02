@@ -1,0 +1,268 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1
+T_opt
+!s110 1615292985
+V^;Mzm`Ae4KUeEGR@PSL`k1
+04 13 9 work full_adder_tb structure 1
+=1-00e02d84ecab-60476a38-1d7-3a0c
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+R0
+Eand_gate
+Z1 w1615057411
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 6
+R0
+Z4 8C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/and_gate.vhd
+Z5 FC:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/and_gate.vhd
+l0
+L5 1
+V<^1YHUIAC:U_2KWP[M9Q=3
+!s100 j6:PWl2?NI5RY3d=:gTlM0
+Z6 OL;C;2020.4;71
+32
+Z7 !s110 1615312889
+!i10b 1
+Z8 !s108 1615312888.000000
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/and_gate.vhd|
+Z10 !s107 C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/and_gate.vhd|
+!i113 0
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Agatelevel
+R2
+R3
+DEx4 work 8 and_gate 0 22 <^1YHUIAC:U_2KWP[M9Q=3
+!i122 6
+l12
+L11 4
+VL0oE<0kS`^azd2VECK2k92
+!s100 lB:h9W3W2AS_@So4M2<ZO1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Efull_adder
+Z13 w1615306843
+R2
+R3
+!i122 7
+R0
+Z14 8C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder.vhd
+Z15 FC:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder.vhd
+l0
+L4 1
+V7:IMD99OQF0LE0V2nHH`N3
+!s100 nahW6hTn6^?CD0T@?2;_e2
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1615312889.000000
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder.vhd|
+Z18 !s107 C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+Z19 DEx4 work 10 full_adder 0 22 7:IMD99OQF0LE0V2nHH`N3
+!i122 7
+l24
+L10 19
+VSj1X910_m7aUiI@_^^R4X3
+!s100 =OGG^6DCZ]gVgKQAnHF4R3
+R6
+32
+R7
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R11
+R12
+Efull_adder_tb
+Z20 w1615112869
+R2
+R3
+!i122 8
+R0
+Z21 8C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder_tb.vhd
+Z22 FC:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder_tb.vhd
+l0
+L5 1
+Va[[G=FFQknMIm<c[_Zo@40
+!s100 VB2RWUE_b1eJdfVU_l`nk3
+R6
+32
+R7
+!i10b 1
+R16
+Z23 !s90 -reportprogress|300|-work|work|C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder_tb.vhd|
+Z24 !s107 C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder_tb.vhd|
+!i113 0
+R11
+R12
+Astructure
+R19
+R2
+R3
+DEx4 work 13 full_adder_tb 0 22 a[[G=FFQknMIm<c[_Zo@40
+!i122 8
+l13
+L9 12
+V^diYFXGWCKUAF`GnBzjY30
+!s100 @_hBL0WE4Ff`NZ;Gl=>CY3
+R6
+32
+R7
+!i10b 1
+R16
+R23
+R24
+!i113 0
+R11
+R12
+Ehalf_adder
+Z25 w1615057405
+R2
+R3
+!i122 9
+R0
+Z26 8C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/half_adder.vhd
+Z27 FC:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/half_adder.vhd
+l0
+L5 1
+V`1B<Y:WzdIfVL4hX05ek81
+!s100 <IK]NT7aoL3:5O@@aFQWj3
+R6
+32
+R7
+!i10b 1
+R16
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/half_adder.vhd|
+Z29 !s107 C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/half_adder.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 10 half_adder 0 22 `1B<Y:WzdIfVL4hX05ek81
+!i122 9
+l24
+L11 17
+VbHE09^IaiEZhRSXb`HXzh2
+!s100 Q1NH^kGf8HRTRYLQgbU_B2
+R6
+32
+R7
+!i10b 1
+R16
+R28
+R29
+!i113 0
+R11
+R12
+Eor_gate
+Z30 w1615057322
+R2
+R3
+!i122 10
+R0
+Z31 8C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/or_gate.vhd
+Z32 FC:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/or_gate.vhd
+l0
+L4 1
+VQG]58X1LPjzUL[TAK[Pb90
+!s100 ?8M4iha?2cX=_R;afPF[W3
+R6
+32
+R7
+!i10b 1
+R16
+Z33 !s90 -reportprogress|300|-work|work|C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/or_gate.vhd|
+Z34 !s107 C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/or_gate.vhd|
+!i113 0
+R11
+R12
+Agatelevel
+R2
+R3
+DEx4 work 7 or_gate 0 22 QG]58X1LPjzUL[TAK[Pb90
+!i122 10
+l11
+Z35 L10 4
+VI>eZK]IIf>=l6mSn`@@2M0
+!s100 =_k2T<D]LQhYnl^kBiH;z0
+R6
+32
+R7
+!i10b 1
+R16
+R33
+R34
+!i113 0
+R11
+R12
+Exor_gate
+Z36 w1615057408
+R2
+R3
+!i122 11
+R0
+Z37 8C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/xor_gate.vhd
+Z38 FC:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/xor_gate.vhd
+l0
+L4 1
+VYzbHmIiliOGXg<4]7gGcO1
+!s100 oCd_m3kJKkIIm6zR1A@F?0
+R6
+32
+R7
+!i10b 1
+R16
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/xor_gate.vhd|
+Z40 !s107 C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/xor_gate.vhd|
+!i113 0
+R11
+R12
+Agatelevel
+R2
+R3
+DEx4 work 8 xor_gate 0 22 YzbHmIiliOGXg<4]7gGcO1
+!i122 11
+l11
+R35
+V`MbkQSjl5ofX2O?SDBz`_3
+Z41 !s100 m30@P`YTCSj?R_]PbGMNi0
+R6
+32
+R7
+!i10b 1
+R16
+R39
+R40
+!i113 0
+R11
+R12

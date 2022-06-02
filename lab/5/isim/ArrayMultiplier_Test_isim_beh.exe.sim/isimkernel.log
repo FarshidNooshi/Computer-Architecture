@@ -1,0 +1,28 @@
+Command line:
+   ArrayMultiplier_Test_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59138
+
+Sat May 01 19:36:44 2021
+
+
+ Elaboration Time: 0.578125 sec
+
+ Current Memory Usage: 5163.18 Meg
+
+ Total Signals          : 99
+ Total Nets             : 79
+ Total Signal Drivers   : 40
+ Total Blocks           : 18
+ Total Primitive Blocks : 13
+ Total Processes        : 40
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 439
+
+ Total Simulation Time: 0.578125 sec
+
+ Current Memory Usage: 5163.18 Meg
+
+Sat May 01 19:36:53 2021
+

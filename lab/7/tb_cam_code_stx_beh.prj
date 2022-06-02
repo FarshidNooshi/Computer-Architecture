@@ -1,0 +1,2 @@
+vhdl isim_temp "CAM.vhd"
+vhdl isim_temp "TB_CAM.vhd"

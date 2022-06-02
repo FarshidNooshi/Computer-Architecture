@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/ArrayMultiplier_Test.xst" -ofn "C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/ArrayMultiplier_Test.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7z010-clg400-1 "ArrayMultiplier_Test.ngc" ArrayMultiplier_Test.ngd  

@@ -1,0 +1,50 @@
+{C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/half_adder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/half_adder.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity half_adder
+-- Compiling architecture structure of half_adder
+
+} {} {}} {C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:\Users\Farshid726\Desktop\University\Computer Design Lab\Projects\1\full_adder.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture structure of full_adder
+
+} {} {}} {C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/full_adder_tb.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder_tb
+-- Compiling architecture structure of full_adder_tb
+-- Loading entity full_adder
+
+} {} {}} {C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/and_gate.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/and_gate.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture gatelevel of and_gate
+
+} {} {}} {C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/xor_gate.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/xor_gate.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate
+-- Compiling architecture gatelevel of xor_gate
+
+} {} {}} {C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/or_gate.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/1/or_gate.vhd}
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate
+-- Compiling architecture gatelevel of or_gate
+
+} {} {}}

@@ -1,0 +1,23 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/tb_normal_multiplier_4bit_isim_beh.exe -prj C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/tb_normal_multiplier_4bit_beh.prj work.tb_normal_multiplier_4bit 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/half_adder.vhd" into library work
+Parsing VHDL file "C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/full_adder.vhd" into library work
+Parsing VHDL file "C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/normal_multiplier_4bit.vhd" into library work
+Parsing VHDL file "C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/tb_normal_multiplier_4bit.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture gate_level of entity half_adder [half_adder_default]
+Compiling architecture gate_level of entity full_adder [full_adder_default]
+Compiling architecture gate_level of entity normal_multiplier_4bit [normal_multiplier_4bit_default]
+Compiling architecture arch of entity tb_normal_multiplier_4bit
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 9 VHDL Units
+Built simulation executable C:/Users/Farshid726/Desktop/University/Computer Design Lab/Projects/5.1/final/tb_normal_multiplier_4bit_isim_beh.exe
+Fuse Memory Usage: 29636 KB
+Fuse CPU Usage: 343 ms

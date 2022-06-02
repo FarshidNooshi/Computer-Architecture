@@ -1,0 +1,22 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/Farshid726/Desktop/az8plusplus (1)/az8plusplus/tb_alu_isim_beh.exe -prj C:/Users/Farshid726/Desktop/az8plusplus (1)/az8plusplus/tb_alu_beh.prj work.tb_alu 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Farshid726/Desktop/az8plusplus (1)/az8plusplus/full_adder.vhd" into library work
+Parsing VHDL file "C:/Users/Farshid726/Desktop/az8plusplus (1)/az8plusplus/ripple_adder_8bit.vhd" into library work
+Parsing VHDL file "C:/Users/Farshid726/Desktop/az8plusplus (1)/az8plusplus/alu.vhd" into library work
+Parsing VHDL file "C:/Users/Farshid726/Desktop/az8plusplus (1)/az8plusplus/tb_alu.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture boolean of entity full_adder [full_adder_default]
+Compiling architecture arch of entity ripple_adder_8bit [ripple_adder_8bit_default]
+Compiling architecture behavioral of entity alu [alu_default]
+Compiling architecture arch of entity tb_alu
+Time Resolution for simulation is 1ps.
+Compiled 9 VHDL Units
+Built simulation executable C:/Users/Farshid726/Desktop/az8plusplus (1)/az8plusplus/tb_alu_isim_beh.exe
+Fuse Memory Usage: 30292 KB
+Fuse CPU Usage: 296 ms

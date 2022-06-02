@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\sama.co\Downloads\Compressed\az9part1\az9part1\cpu.vhd" Line 53: Assignment to <arg fmt="%s" index="1">rd</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\sama.co\Downloads\Compressed\az9part1\az9part1\cpu.vhd" Line 54: Assignment to <arg fmt="%s" index="1">rt</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"C:\Users\sama.co\Downloads\Compressed\az9part1\az9part1\cpu.vhd" Line 55: Assignment to <arg fmt="%s" index="1">rs</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"C:\Users\sama.co\Downloads\Compressed\az9part1\az9part1\cpu.vhd" Line 36: Net &lt;<arg fmt="%s" index="1">AR[3]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">AR</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="2999" delta="new" >Signal &apos;<arg fmt="%s" index="1">ram</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">cpu</arg>&apos;, is tied to its initial value.
+</msg>
+
+<msg type="warning" file="Xst" num="2999" delta="new" >Signal &apos;<arg fmt="%s" index="1">rom</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">cpu</arg>&apos;, is tied to its initial value.
+</msg>
+
+<msg type="warning" file="Xst" num="2999" delta="new" >Signal &apos;<arg fmt="%s" index="1">pc</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">cpu</arg>&apos;, is tied to its initial value.
+</msg>
+
+</messages>
+

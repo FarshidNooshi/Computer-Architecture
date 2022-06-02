@@ -1,0 +1,2 @@
+vhdl work "../divition.vhd"
+vhdl work "division_test.vhd"
